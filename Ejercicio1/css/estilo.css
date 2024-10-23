@@ -1,0 +1,23 @@
+body {
+    
+    text-align: center;
+}
+#p1{
+    background-color: brown;
+}
+#p2{
+    background-color: red;
+}
+#p3{
+    background-color: blue;
+}
+.p4{
+    background-color: aqua;
+}
+form{
+    color: blue;
+    
+}
+table{
+    border: blueviolet;
+}
